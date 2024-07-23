@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Dependency directories
+/node_modules
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.*.local
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Vite specific files
+.vite/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore build artifacts
+*.tgz
+*.gz

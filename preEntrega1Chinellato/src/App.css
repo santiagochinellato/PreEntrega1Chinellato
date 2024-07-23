@@ -1,0 +1,9 @@
+@import '../src/styles/variables.css';
+@import '../src/styles/mixins.css';
+@import '../src/styles/global.css';
+@import '../src/styles/reset.css';
+@import '../src/styles/components/navbar.css';
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
